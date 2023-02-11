@@ -1,0 +1,68 @@
+body {
+  background: #151515;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #FFFFFF;
+}
+
+
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #FFFFFF;
+  text-shadow: 0 0 20px
+}
+
+.introductionText {
+  text-shadow: 0 0 20px
+}
+
+p {
+  font-weight: 600;
+  text-align: center;
+  font-family: sans-serif;
+  color: #FFFFFF;
+  text-shadow: 0 0 20px
+}
+
+marquee {
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+  font-family: sans-serif;
+  color: #FFFFFF;
+}
+
+img {
+  padding-left: 110px;
+}
+
+#aboutText {
+  padding-right: 200px;
+}
+
+li {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  font-family: sans-serif;
+  color: #FFFFFF;
+  list-style: none;
+}
+
+a {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  font-family: sans-serif;
+  color: #FFFFFF;
+  text-decoration: none;
+  text-align: center;
+}
+
+#endingNote {
+  text-shadow: none;
+}
